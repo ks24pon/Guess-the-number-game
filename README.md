@@ -20,4 +20,4 @@
 ## 💻 実行方法
 
 ```bash
-python3 game.py
+python3 main.py
